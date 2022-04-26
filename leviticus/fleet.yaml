@@ -2,4 +2,4 @@ namespace: test-01
 helm: 
   values:
     ingress:
-      enabled: false
+      enabled: true
